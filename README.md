@@ -1,30 +1,4 @@
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
 &quot;
@@ -32,9 +6,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Casper Beeris - 4975421
 
+[![](http://img.youtube.com/vi/8960FY_0FHo/0.jpg)](http://www.youtube.com/watch?v=8960FY_0FHo "What it should be")
+
 # 1. Learning Contract
 
 Knowing that I&#39;m mostly able to prepare a structured and flowing session with a lot of joy and enthusiasm I thought of a way to challenge myself to get most out of this course. My intrest has always been with group dynamics. And with the CF sessions you can really see if a certain method is working for the group or not. This is why I came up with the following.
+
+![Image](src)
 
 My learning contract represents the variety of people with which you make up a creative session. And the connections between them.
 
@@ -55,7 +33,7 @@ A metaphor that came up during the presentation of the different contracts was t
 # (ref. literature &amp; lectures)
 
 Maslows pyramid
-
+![image](source)
 Core skills
 
 # 3. Internal Session
@@ -206,3 +184,32 @@ The thing that could improve would be the structuredness of the lectures. At tim
 **Wanneer is het succesvol? Wat zou de slechtste uitkomst zijn?**
 
 **Wat wil je aan het einde hebben? 1 oplossing of zoveel mogelijk? Hoe concreet?**
+
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
