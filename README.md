@@ -1,8 +1,8 @@
 
 
 
-&quot;
-# Autumn 2019&quot;
+
+# &quot;Autumn 2019&quot;
 
 Casper Beeris - 4975421
 
@@ -12,7 +12,7 @@ Casper Beeris - 4975421
 
 Knowing that I&#39;m mostly able to prepare a structured and flowing session with a lot of joy and enthusiasm I thought of a way to challenge myself to get most out of this course. My intrest has always been with group dynamics. And with the CF sessions you can really see if a certain method is working for the group or not. This is why I came up with the following.
 
-![Image](https://github.com/Cazikaza/CF/blob/master/WIN_20200505_09_47_58_Pro.jpg)
+![Image](WIN_20200505_09_47_58_Pro.jpg)
 
 My learning contract represents the variety of people with which you make up a creative session. And the connections between them.
 
@@ -33,7 +33,7 @@ A metaphor that came up during the presentation of the different contracts was t
 # (ref. literature &amp; lectures)
 
 Maslows pyramid
-![image](https://github.com/Cazikaza/CF/blob/master/maslow.png)
+![image](maslow.png)
 Core skills
 
 # 3. Internal Session
@@ -146,7 +146,7 @@ I would like to summarise my learnings into two tools that can be easily impleme
 
 My own Maslow&#39;s pyramid:
 
-![Image](https://github.com/Cazikaza/CF/blob/master/ownmaslow.PNG)
+![Image](ownmaslow.PNG)
 
 Core skills of cf:
 
