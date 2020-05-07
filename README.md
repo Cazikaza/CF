@@ -45,15 +45,15 @@ For the intake we called Laura with a bunch of questions. Which are added in the
 
 ## The plan
 
-###1.Game plan (outcomes & goals)
+### 1.Game plan (outcomes & goals)
 The goal was to generate as many idea's as possible. Therefore there was less focus on quality and more on quantity.
-###2.Determine flow of session
+### 2.Determine flow of session
 With this goal in mind I wanted the session to gradually be more energetic. This was also due to the fact that the session would be late at night. And people were bound to fall asleep it would be a slow moving exercise
-###3.Modus operantis (I want to..)
+### 3.Modus operantis (I want to..)
 I want to motivate and bring the inner child to the top of their minds. This will take empathy, seeing what every individual and the group needs in the room at that moment in time.
-###4.Choose tools/ assignments
+### 4.Choose tools/ assignments
 I opted to use a meditation visualization to start off and envision the stakeholders and their environment. Followed by an exercise to create a common goal and values. Thereafter I chose to incorporate a lot of object stimulated playful association games. That were clustered in the end.
-###5.Connect tools
+### 5.Connect tools
 The first exercise is quite slow. So to up the tempo the first goal setting exercise is made to be a like a scrum. Effectively forming them into a team ready to take on an important game. This team theme is then used throughout including pep talks and encouraging teamwork and building on each others idea's.
 ## Reflection
 
