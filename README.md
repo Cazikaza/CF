@@ -25,15 +25,28 @@ The boss: The one with the biggest mouth and a lot of idea&#39;s. But overshadow
 
 My goal was to unite these people and make sure that they would all be able to connect and add to the session. Adapting to the personalities of everyone in the room to ensure maximization of the thinking potential.
 
-My strategy of tackling this goal was to really engage with the people in the room. By making conversation in breaks and during the assignments. And with the information that comes from this conversation adapt the planning to suit the way of collaboration and thinking styles of the participants.
+My strategy of tackling this goal was to really engage with the participants in the room. By making conversation in breaks and during the assignments. And with the information that comes from this conversation adapt the planning to suit the way of collaboration and thinking styles of the participants.
 
 A metaphor that came up during the presentation of the different contracts was the parallel between organizing a session and jazz. Everyone should be able to do their own thing and together it sounds as a whole. This has become my vision for my CF sessions. With me as the conductor.
 
-# 2. Some theories &amp; techniques (ref. literature &amp; lectures)
+# 2. Theory
+This part will reference some sources that inspired my way of conducting creative sessions.
+First and foremost the general structure:
+![image](image/process.png)
+This is simply the backbone of my sessions. Going from issue to target, from target to ideas and from ideas to a concept is a method that feels logical. However most creative sessions are to long to go through all phases. Which means you will have to deal with the rough edges when cutting things short or starting halfway.
 
-Maslow's pyramid
+Secondly, Associations. Associations are undoudbly the simplest form of inspiration. The fact that associations are a simple reliable form of inspiration makes them very useful in creative session. Especially if all participants are not creatively schooled.
+
+Thirdly, when conducting a session and paying attention to group dynamics maslows pyramid is important. This is also a way of tackling my learning goal. Using this principle one can see that before good group dynamics become a thing every person in the room has needs to be fullfilled before being able to think about full self actualisation. Importantly everyone needs to be wel rested, fed en feel safe before even thinking about psychological needs. Then people need to have the feeling that they have friends among them and feel valued. Only then the full potential of everyone in the room can be utilized.
 ![image](images/maslow.png)
-Core skills
+
+The first basic need  could be created by having timely rest moments and have plenty food and water at the ready.
+The second basic need, safety, can be created by developing clear ground rules. The rule of your two feet helps a lot. Furthermore breaking barriers of uncomfort by giving the example as a facilitator is usefull.
+Belonging and love can evolve from breaking up people into pairs. Giving prompts that help to get to know eachother and start conversation should also result in the building of relationship. As do experiences gone through together. 
+Esteem needs are essential to manage actively. As a facilitator it is vital to ensure that everyone speaks up when they have something to add to the discussion. It happens that one participant is overshadowed by another. As facilitator you can work around this by giving people turns to speak or by giving everyone equal opportunity to add, for example with post-its.
+The ultimate goal for everyone is full self actualization. Only in this state people can come in a state of flow and will be able to add to their own potential.
+
+Therefore creative sessions need to start with developing basic and psychological needs. Such a start should also help to get the diffent people in the room to show their best side and subsequently result in less conflicting roles or irritations. Participants need to know when their skills are most useful. Just as in Jazz, musicians are all equally valueable but need to play their part at the correct timing. Incorrect timing hurts the beauty created. 
 
 # 3. Internal Session
 
@@ -48,7 +61,7 @@ For the intake we called Laura with a bunch of questions. Which are added in the
 ### 1.Game plan (outcomes & goals)
 The goal was to generate as many idea's as possible. Therefore there was less focus on quality and more on quantity.
 ### 2.Determine flow of session
-With this goal in mind I wanted the session to gradually be more energetic. This was also due to the fact that the session would be late at night. And people were bound to fall asleep it would be a slow moving exercise
+With this goal in mind I wanted the session to gradually be more energetic. This was also due to the fact that the session would be late at night. And people were bound to fall asleep if it would be a slow moving exercise. So I opted for more physical assignments later in the session.
 ### 3.Modus operantis (I want to..)
 I want to motivate and bring the inner child to the top of their minds. This will take empathy, seeing what every individual and the group needs in the room at that moment in time.
 ### 4.Choose tools/ assignments
@@ -104,21 +117,21 @@ The intake with Gerhard and Hannah consisted of 2 rounds. The first one over the
 We also agreed upon a session with a wide variety of participants from different functions.
 
 ## The plan
-###1.Game plan (outcomes & goals)
-
-###2.Determine flow of session
-
-###3.Modus operantis (I want to..)
-
-###4.Choose tools/ assignments
-
-###5.Connect tools
-
+### 1.Game plan (outcomes & goals)
+The goal of the session was to generate new usecases of a mobile EEG recorder. This ment getting all different perspectives on the subject to a place where they would generate idea's and evaluate the applicability of the resulting concepts. Effectively walking through all three stages of the CF process in one afternoon.
+### 2.Determine flow of session
+The plan was to get people to start thinking freely more and more. I expected a withdrawn standpoint due to the hiarchical structure of most medical organisation. Therefore I opted for assignments that helped giving everyone a say in discussions.  
+### 3.Modus operantis (I want to..)
+I wanted to inspire free and creative thinking. This is my unique selling point in a session with medical professionals. And it would be my role to teach that to this target group.
+### 4.Choose tools/ assignments
+The session was devided in three parts of an hour each. The first one focussed on setting the scope. The second on ideation and the third on concept selection. Rules of conduct are the first step followed by discribing everyones roles. The the problem owner could explain the problem. From which values for the solution could be created by asking a multitude of what if? questions and a purge of the initial ideas. The second part would consist of developing ideas for the problem using prompts and asociations. The third and final part consisted of ranking the ideas on different graphs using the values that resulted from the first section.
+### 5.Connect tools
+Every assignment's result should be used in the next assignment. Especially the values created in the beginning could be used for selection and clustering in the end. I planned to keep the session quite basic looking at time constraints and the probably overwhelming experience of doing assignments that are different then the participants would do on an ordinary day.
 ## Reflection
 
 ### Mood
 
-The mood of the group was alright during the session. I quickly noticed that the group was a lot more stiff then a group of IDE students. Which I expected. The best example was one of the participants looking at me with big eyes when I asked everyone to set the tables aside. This stiffness held up through the whole session. In hindsight I could have used some crazy hats or other props to make everyone a bit more loose. In the end the environment I created was just a bit to ordinary.
+The mood of the group was alright during the session. I quickly noticed that the group was a lot more stiff then a group of IDE students. Which I expected. The best example was one of the participants looking at me with big eyes when I asked everyone to set the tables aside. This stiffness held up through the whole session. In hindsight I could have used some crazy hats or other props to make everyone a bit more loose. In the end the environment I created was just to ordinary.
 
 ### Setting
 
@@ -130,13 +143,13 @@ Time was way to tight. I scrapped a lot of my original assignment idea&#39;s in 
 
 ### Energy
 
-The energy of the group never peaked to extaticness but was overall well managed. I paced certain assignments differently according to the quality that needed to be produced which worked well.
+The energy of the group never peaked to extaticness but was overall well managed. I paced certain assignments differently according to the quality that needed to be produced at that moment. Which worked well.
 
 ### Context
 
-This is where the session suffered a big loss. I assumed all participants to be on the same page with the problem statement developed 2 months earlier. Or even expected a further standpoint by now. But the problem statement that was developed was way to far fetched and the first hour was spend on redeveloping what everyone wanted to work towards.
+This is where the session suffered a big loss. I assumed all participants to be on the same page with the problem statement developed 2 months earlier. Or even expected a further standpoint by now. But the problem statement that was developed was to far fetched and the first hour was spend on redeveloping what everyone wanted to work towards.
 
-I think this was due to a lack of introduction by the problem owner but also the overestimation of the group&#39;s process by the problem owner. My assumption that everyone was on the same page didn&#39;t help either and we ended up going on to the design phase before the problem was really solidly defined. I could have held an entire session of 3 hours just for finding this problem but didn&#39;t anticipate the importance of this and went on. Leaving the group feeling like they didn&#39;t tackle the right problem at the end of the session.
+I think this was due to a lack of introduction by the problem owner but also the overestimation of the group&#39;s process by the problem owner. My assumption that everyone was on the same page didn&#39;t help either and we ended up going on to the design phase before the problem was really solidly defined. I could have held an entire session of 3 hours just to find the right problem but didn&#39;t anticipate the importance of this and went on. Leaving the group feeling like they didn&#39;t tackle the right problem at the end of the session.
 
 ### Structure
 
@@ -158,7 +171,7 @@ Everyone walked away happy but a little unfulfilled. And I would love to do anot
 
 This gives me the idea that there is a dependency of needs within a session that need to be ensured before you can pay attention to the next level. Just like Maslow&#39;s pyramid.
 
-# 5. Experiences &amp; Reflections \&gt; Learnings
+# 5. Experiences, reflections and learnings
 
 I would like to summarize my learnings into two tools that can be easily implemented in next sessions.
 
