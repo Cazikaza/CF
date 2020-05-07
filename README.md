@@ -10,9 +10,9 @@ Casper Beeris - 4975421
 
 # 1. Learning Contract
 
-Knowing that I&#39;m mostly able to prepare a structured and flowing session with a lot of joy and enthusiasm I thought of a way to challenge myself to get most out of this course. My intrest has always been with group dynamics. And with the CF sessions you can really see if a certain method is working for the group or not. This is why I came up with the following.
+Knowing that I&#39;m mostly able to prepare a structured and flowing session with a lot of joy and enthusiasm I thought of a way to challenge myself to get most out of this course. My interest has always been with group dynamics. And with the CF sessions you can really see if a certain method is working for the group or not. This is why I came up with the following.
 
-![Image](WIN_20200505_09_47_58_Pro.jpg)
+![Image](images/WIN_20200505_09_47_58_Pro.jpg)
 
 My learning contract represents the variety of people with which you make up a creative session. And the connections between them.
 
@@ -22,18 +22,16 @@ The silent but hidden gem: the one that is not able to speak up in groups or spe
 
 The boss: The one with the biggest mouth and a lot of idea&#39;s. But overshadows other team members and can be stuck in a critical mindset.
 
-My goal was to unite these people and make sure that they would all be able to connect and add to the session. Adapting to the personalities of everyone in the room to ensure maximisation of the thinking potential.
+My goal was to unite these people and make sure that they would all be able to connect and add to the session. Adapting to the personalities of everyone in the room to ensure maximization of the thinking potential.
 
 My strategy of tackling this goal was to really engage with the people in the room. By making conversation in breaks and during the assignments. And with the information that comes from this conversation adapt the planning to suit the way of collaboration and thinking styles of the participants.
 
-A metaphor that came up during the presentation of the different contracts was the parallel between organising a session and jazz. Everyone should be able to do their own thing and together it sounds as a whole. This has become my vision for my cf sessions. With me as the conductor.
+A metaphor that came up during the presentation of the different contracts was the parallel between organizing a session and jazz. Everyone should be able to do their own thing and together it sounds as a whole. This has become my vision for my CF sessions. With me as the conductor.
 
-# 2. Some theories &amp; techniques
+# 2. Some theories &amp; techniques (ref. literature &amp; lectures)
 
-# (ref. literature &amp; lectures)
-
-Maslows pyramid
-![image](maslow.png)
+Maslow's pyramid
+![image](images\maslow.png)
 Core skills
 
 # 3. Internal Session
@@ -42,7 +40,7 @@ My Internal session was for Laura Schouwen. Who sought to improve patient handov
 
 ## Intake
 
-For the intake we called Laura with a bunch of questions. Which are added in the appendix of the report. These questions gave a good insight on the problem to solve. What had been tried already and most importantly the expected outcome. Which in this case was as many original idea&#39;s as possible that would be used as inspiration for her project. She also provided us with a concise problem definition which proved to be very usefull since all participants had no idea about the context.
+For the intake we called Laura with a bunch of questions. Which are added in the appendix of the report. These questions gave a good insight on the problem to solve. What had been tried already and most importantly the expected outcome. Which in this case was as many original idea&#39;s as possible that would be used as inspiration for her project. She also provided us with a concise problem definition which proved to be very useful since all participants had no idea about the context.
 
 ## The plan
 
@@ -66,7 +64,7 @@ The energy of the group was on the lower side. Which resulted in one of the part
 
 ### Context
 
-The brief and intake questions proved to be adequate to get everyone on one page with the context. The used visualisation was my favorite part of the session and is something I find quite unique and really helping envisioning who the group is designing for.
+The brief and intake questions proved to be adequate to get everyone on one page with the context. The used visualization was my favorite part of the session and is something I find quite unique and really helping envisioning who the group is designing for.
 
 ### Structure
 
@@ -82,15 +80,15 @@ My session triggered the high energy outgoing people well. But is was a bit too 
 
 ## Concluding
 
-In general I&#39;m really pleased with my first session. It was a good en fun experience and the results were good. I do think that there is room for improvement but this is only logical. I will put more attention to the setting, energy and time constraints of the session to prevent the pitfalls of this session.
+In general I&#39;m really pleased with my first session. It was a good and fun experience and the results were good. I do think that there is room for improvement but this is only logical. I will put more attention to the setting, energy and time constraints of the session to prevent the pitfalls of this session.
 
 # 4. External Session
 
-My external session was for Gerhard Visser head of neurology within epilepsy research centre SEIN.
+My external session was for Gerhard Visser head of neurology within epilepsy research center SEIN.
 
 ## Intake
 
-The intake with Gerhard and Hannah consisted of 2 rounds. The first one over the phone explaining the concept of a creative session. And a second one at SEIN by having a conversation with Gerhard and a co-worker(Hannah, Technical medicine) about the possibilities and finding a possible problem to brainstorm on. This went a lot thougher then the previous intake because of the lack of understanding the creative facilitation concept. But with some explanation we came to a resulting question: how can we use a mobile eeg recorder to provide clients with home recording of eeg&#39;s. It helped a lot that I knew what the context was about via my girlfriends graduation project at SEIN.
+The intake with Gerhard and Hannah consisted of 2 rounds. The first one over the phone explaining the concept of a creative session. And a second one at SEIN by having a conversation with Gerhard and a co-worker(Hannah, Technical medicine) about the possibilities and finding a possible problem to brainstorm on. This went a lot tougher then the previous intake because of the lack of understanding the creative facilitation concept. But with some explanation we came to a resulting question: how can we use a mobile EEG recorder to provide clients with home recording of EEG&#39;s. It helped a lot that I knew what the context was about via my girlfriends graduation project at SEIN.
 
 We also agreed upon a session with a multitude participants of different functions.
 
@@ -108,11 +106,11 @@ The setting was good, moving the tables over in a conference room worked well to
 
 ### Time
 
-Time was way to tight. I scrapped a lot of my original assignment idea&#39;s in favour of the time and still ended up with too little to really analyse the brought up idea&#39;s in the end.
+Time was way to tight. I scrapped a lot of my original assignment idea&#39;s in favor of the time and still ended up with too little to really analyze the brought up idea&#39;s in the end.
 
 ### Energy
 
-The energy of the group never peaked to extaticness but was overall well managed. I paced certain assignments diffently according to the quality that needed to be produced which worked well.
+The energy of the group never peaked to extaticness but was overall well managed. I paced certain assignments differently according to the quality that needed to be produced which worked well.
 
 ### Context
 
@@ -142,13 +140,13 @@ This gives me the idea that there is a dependency of needs within a session that
 
 # 5. Experiences &amp; Reflections \&gt; Learnings
 
-I would like to summarise my learnings into two tools that can be easily implemented in next sessions.
+I would like to summarize my learnings into two tools that can be easily implemented in next sessions.
 
 My own Maslow&#39;s pyramid:
 
-![Image](ownmaslow.PNG)
+![Image](images\ownmaslow.PNG)
 
-Core skills of cf:
+Core skills of CF:
 
 Skills that are relevant in every activity within a creative session.
 
@@ -165,7 +163,7 @@ The best recommendation that I could give myself is to do more sessions. I have 
 
 First of all I loved the interactivity of the course. CF is something you really learn by doing and your experience and personalities together made for a nice mix of styles from which I could pick and choose to form my own.
 
-The thing that could improve would be the structuredness of the lectures. At times there were so many sidepaths to the main story that I lost the goal of the lecture or the lecture seemed to proceed very slowly. That said, al the anecdotes really helped so maybe schedule them in the lecture on forehand?
+The thing that could improve would be the structuredness of the lectures. At times there were so many side paths to the main story that I lost the goal of the lecture or the lecture seemed to proceed very slowly. That said, al the anecdotes really helped so maybe schedule them in the lecture on forehand?
 
 # 7. appendix
 
