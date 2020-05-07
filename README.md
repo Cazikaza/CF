@@ -7,10 +7,11 @@
 Casper Beeris - 4975421
 
 [![](http://img.youtube.com/vi/8960FY_0FHo/0.jpg)](http://www.youtube.com/watch?v=8960FY_0FHo "What it should be")
+Click the image!
 
 # 1. Learning Contract
 
-Knowing that I&#39;m mostly able to prepare a structured and flowing session with a lot of joy and enthusiasm I thought of a way to challenge myself to get most out of this course. My interest has always been with group dynamics. And with the CF sessions you can really see if a certain method is working for the group or not. This is why I came up with the following.
+Knowing that I&#39;m mostly able to prepare a structured and flowing session with a lot of joy and enthusiasm. I thought of a way to challenge myself to get most out of this course. My interest has always been with group dynamics. And with the CF sessions you can really see if a certain method is working for the group or not. This is why I came up with the following.
 
 ![Image](images/WIN_20200505_09_47_58_Pro.jpg)
 
@@ -44,6 +45,16 @@ For the intake we called Laura with a bunch of questions. Which are added in the
 
 ## The plan
 
+###1.Game plan (outcomes & goals)
+The goal was to generate as many idea's as possible. Therefore there was less focus on quality and more on quantity.
+###2.Determine flow of session
+With this goal in mind I wanted the session to gradually be more energetic. This was also due to the fact that the session would be late at night. And people were bound to fall asleep it would be a slow moving exercise
+###3.Modus operantis (I want to..)
+I want to motivate and bring the inner child to the top of their minds. This will take empathy, seeing what every individual and the group needs in the room at that moment in time.
+###4.Choose tools/ assignments
+I opted to use a meditation visualization to start off and envision the stakeholders and their environment. Followed by an exercise to create a common goal and values. Thereafter I chose to incorporate a lot of object stimulated playful association games. That were clustered in the end.
+###5.Connect tools
+The first exercise is quite slow. So to up the tempo the first goal setting exercise is made to be a like a scrum. Effectively forming them into a team ready to take on an important game. This team theme is then used throughout including pep talks and encouraging teamwork and building on each others idea's.
 ## Reflection
 
 ### Mood
@@ -84,15 +95,24 @@ In general I&#39;m really pleased with my first session. It was a good and fun e
 
 # 4. External Session
 
-My external session was for Gerhard Visser head of neurology within epilepsy research center SEIN.
+My external session was for Gerhard Visser, head of neurology within epilepsy research center SEIN.
 
 ## Intake
 
 The intake with Gerhard and Hannah consisted of 2 rounds. The first one over the phone explaining the concept of a creative session. And a second one at SEIN by having a conversation with Gerhard and a co-worker(Hannah, Technical medicine) about the possibilities and finding a possible problem to brainstorm on. This went a lot tougher then the previous intake because of the lack of understanding the creative facilitation concept. But with some explanation we came to a resulting question: how can we use a mobile EEG recorder to provide clients with home recording of EEG&#39;s. It helped a lot that I knew what the context was about via my girlfriends graduation project at SEIN.
 
-We also agreed upon a session with a multitude participants of different functions.
+We also agreed upon a session with a wide variety of participants from different functions.
 
 ## The plan
+###1.Game plan (outcomes & goals)
+
+###2.Determine flow of session
+
+###3.Modus operantis (I want to..)
+
+###4.Choose tools/ assignments
+
+###5.Connect tools
 
 ## Reflection
 
