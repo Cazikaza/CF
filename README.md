@@ -31,7 +31,7 @@ A metaphor that came up during the presentation of the different contracts was t
 # 2. Some theories &amp; techniques (ref. literature &amp; lectures)
 
 Maslow's pyramid
-![image](images\maslow.png)
+![image](images/maslow.png)
 Core skills
 
 # 3. Internal Session
@@ -144,7 +144,7 @@ I would like to summarize my learnings into two tools that can be easily impleme
 
 My own Maslow&#39;s pyramid:
 
-![Image](images\ownmaslow.PNG)
+![Image](images/ownmaslow.PNG)
 
 Core skills of CF:
 
