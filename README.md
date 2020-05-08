@@ -6,7 +6,7 @@
 
 Casper Beeris - 4975421
 
-[![](http://img.youtube.com/vi/8960FY_0FHo/0.jpg)](https://youtu.be/8960FY_0FHo?t=405 "What it should be")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8960FY_0FHo?start=405" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Set the tone of this report, click the image!
 Pro tip, let it play in the background while reading.
