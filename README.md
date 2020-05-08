@@ -52,7 +52,7 @@ A metaphor that came up during the presentation of the different contracts was t
 This part will reference some sources that inspired my way of conducting creative sessions.
 First and foremost the general structure:
 
-![image](image/process.png)
+![image](images/process.PNG)
 
 This is simply the backbone of my sessions. Going from issue to target, from target to ideas and from ideas to a concept is a method that feels logical. However most creative sessions are to long to go through all phases. Which means you will have to deal with the rough edges when cutting things short or starting halfway.
 
