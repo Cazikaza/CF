@@ -29,10 +29,16 @@ My learning contract represents the variety of people with which you make up a c
 
 The old and obsolete: the one stuck in it&#39;s thinking pattern but very reliable and wise through his/her experience.
 
+
+![Image](images/theold.gif)
+
 The silent but hidden gem: the one that is not able to speak up in groups or speaks up less. But when asked to say something he/she can really contribute with a well overthought insight.
 
+![Image](images/thesilent.gif)
+
 The boss: The one with the biggest mouth and a lot of idea&#39;s. But overshadows other team members and can be stuck in a critical mindset.
-<iframe src="https://giphy.com/embed/YPJU2ZNbhySdfklRDN" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/latenightseth-seth-meyers-lnsm-late-night-with-YPJU2ZNbhySdfklRDN"></a></p>
+
+![Image](images/theboss.gif)
 
 My goal was to unite these people and make sure that they would all be able to connect and add to the session. Adapting to the personalities of everyone in the room to ensure maximization of the thinking potential.
 
@@ -40,15 +46,20 @@ My strategy of tackling this goal was to really engage with the participants in 
 
 A metaphor that came up during the presentation of the different contracts was the parallel between organizing a session and jazz. Everyone should be able to do their own thing and together it sounds as a whole. This has become my vision for my CF sessions. With me as the conductor.
 
+![Image](images/theconductor.gif)
+
 # 2. Theory
 This part will reference some sources that inspired my way of conducting creative sessions.
 First and foremost the general structure:
+
 ![image](image/process.png)
+
 This is simply the backbone of my sessions. Going from issue to target, from target to ideas and from ideas to a concept is a method that feels logical. However most creative sessions are to long to go through all phases. Which means you will have to deal with the rough edges when cutting things short or starting halfway.
 
 Secondly, Associations. Associations are undoudbly the simplest form of inspiration. The fact that associations are a simple reliable form of inspiration makes them very useful in creative session. Especially if all participants are not creatively schooled.
 
 Thirdly, when conducting a session and paying attention to group dynamics maslows pyramid is important. This is also a way of tackling my learning goal. Using this principle one can see that before good group dynamics become a thing every person in the room has needs to be fullfilled before being able to think about full self actualisation. Importantly everyone needs to be wel rested, fed en feel safe before even thinking about psychological needs. Then people need to have the feeling that they have friends among them and feel valued. Only then the full potential of everyone in the room can be utilized.
+
 ![image](images/maslow.png)
 
 The first basic need  could be created by having timely rest moments and have plenty food and water at the ready.
