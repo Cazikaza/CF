@@ -8,7 +8,16 @@ Casper Beeris - 4975421
 
 [![](http://img.youtube.com/vi/8960FY_0FHo/0.jpg)](https://youtu.be/8960FY_0FHo?t=405 "What it should be")
 
-Click the image!
+Set the tone of this report, click the image!
+Pro tip, let it play in the background while reading.
+
+Before you start reading. You might want to consider:
+Do you have coffee or tea at the ready?
+And perhaps a snack?
+Are you sitting in the right place? No disturbances?
+The beach, a garden, your most relaxed chair?
+
+This report was writen with the idea in mind to give you, the reader, a pathway into my mind. I sincerely hope it will be an enjoyable pathway. 
 
 # 1. Learning Contract
 
@@ -179,10 +188,15 @@ I would like to summarize my learnings into two tools that can be easily impleme
 ## Maslow&#39;s pyramid of CF:
 
 ![Image](images/ownmaslow.PNG)
-The logic in this pyramid comes from my own experience. Mood is most important without it you will get nowhere. For example: You can have a group that has energy, but if people are grumpy and unwilling the session wont work. Energy is more important then the setting of the session if the setting is bad but there is enough energy it will probably not matter. As can be seen with my internal session. the setting wasnt that good but it only became noticeable when the energy dropped. Setting is more important then the context. With a good setting you can start to develop a better understanding of the context of the problem. However if the setting is horible and you get interupted constantly by noise or other factors it will hinder your progress.
-Structure is all about the structure of the session. The session will not work if it isn't clear what everyone needs to be doing or the tools don't fit the moment.
-Group dynamics is the next thing to focus on as a facilitator. You will need the feeling of safety for everyone before people can start to use their own character traits efficiently. Character is therefore the pinacle of this pyramid. If you as a facilitator get to the point where you can focus on how each person is best used in the session you will need a sturdy basis to build upon.
-This is why my learning goal was far fetched. It is more important to focus on the other parts of the pyramid first.
+The logic in this pyramid comes from my own experience. Mood is most important without it you will get nowhere. For example: You can have a group that has energy, but if people are grumpy and unwilling the session wont work. 
+
+- Energy is more important then the setting of the session if the setting is bad but there is enough energy it will probably not matter. As can be seen with my internal session. The setting wasnt that good but it only became noticeable when the energy dropped. 
+- Setting is more important then the context. With a good setting you can start to develop a better understanding of the context of the problem. However if the setting is horible and you get interupted constantly by noise or other factors it will hinder your progress.
+- Structure is all about the structure of the session. The session will not work if it isn't clear what everyone needs to be doing or the tools don't fit the moment.
+- Group dynamics is the next thing to focus on as a facilitator. You will need the feeling of safety for everyone before people can start to use their own character traits efficiently. 
+- Character is therefore the pinacle of this pyramid. If you as a facilitator get to the point where you can focus on how each person is best used in the session you will need a sturdy basis to build upon.
+
+This is why my learning goal was far fetched. It is more important to focus on the other parts of the pyramid first. But I hope my efforts at the beginning of the report have at least given you a good mood, energy and setting. 
 
 ## Core skills of CF:
 
