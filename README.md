@@ -7,6 +7,7 @@
 Casper Beeris - 4975421
 
 [![](http://img.youtube.com/vi/8960FY_0FHo/0.jpg)](http://www.youtube.com/watch?v=8960FY_0FHo "What it should be")
+
 Click the image!
 
 # 1. Learning Contract
@@ -175,18 +176,29 @@ This gives me the idea that there is a dependency of needs within a session that
 
 I would like to summarize my learnings into two tools that can be easily implemented in next sessions.
 
-My own Maslow&#39;s pyramid:
+## Maslow&#39;s pyramid of CF:
 
 ![Image](images/ownmaslow.PNG)
+The logic in this pyramid comes from my own experience. Mood is most important without it you will get nowhere. For example: You can have a group that has energy, but if people are grumpy and unwilling the session wont work. Energy is more important then the setting of the session if the setting is bad but there is enough energy it will probably not matter. As can be seen with my internal session. the setting wasnt that good but it only became noticeable when the energy dropped. Setting is more important then the context. With a good setting you can start to develop a better understanding of the context of the problem. However if the setting is horible and you get interupted constantly by noise or other factors it will hinder your progress.
+Structure is all about the structure of the session. The session will not work if it isn't clear what everyone needs to be doing or the tools don't fit the moment.
+Group dynamics is the next thing to focus on as a facilitator. You will need the feeling of safety for everyone before people can start to use their own character traits efficiently. Character is therefore the pinacle of this pyramid. If you as a facilitator get to the point where you can focus on how each person is best used in the session you will need a sturdy basis to build upon.
+This is why my learning goal was far fetched. It is more important to focus on the other parts of the pyramid first.
 
-Core skills of CF:
+## Core skills of CF:
 
-Skills that are relevant in every activity within a creative session.
+core skills are skills that are relevant in every activity within a creative session.
+They are reminders of things you can do as a facilitator to improve the session no matter the level of the pyramid you are at.
 
 1. Create safety
 2. Dare to switch it up
 3. Give time
 4. Give ownership
+
+All of the above skills I believe can be implemented in sessions in many many ways. 
+- create safety when people are feeling insecure. Be clear in what you are going to do and what is expected from the participants. And give them a way out.
+- Dare to switch it up if things dont go to plan it is more important that you move with the level of understanding the group is at then that you rush them through a number of steps. The latter can kill the creativity.
+- Don't rush, give time instead. A rushed session is detrimental for the quality of the choices made when converging ideas. 
+- Give ownership is important since it allowes you as facilitator to monitor where the group wants to go. And if you don't have a way of knowing how your group is feeling you are steering blindly. It also sparks trust and creates a form of safety. You will want to stear your session fluently and not resist or oppose.  
 
 # 6. Recommendations for yourself
 
@@ -216,31 +228,3 @@ The thing that could improve would be the structuredness of the lectures. At tim
 
 **Wat wil je aan het einde hebben? 1 oplossing of zoveel mogelijk? Hoe concreet?**
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
