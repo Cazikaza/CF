@@ -6,7 +6,7 @@
 
 Casper Beeris - 4975421
 
-[![](http://img.youtube.com/vi/8960FY_0FHo/0.jpg)](http://www.youtube.com/watch?v=8960FY_0FHo "What it should be")
+[![](http://img.youtube.com/vi/8960FY_0FHo/0.jpg)](https://youtu.be/8960FY_0FHo?t=405 "What it should be")
 
 Click the image!
 
