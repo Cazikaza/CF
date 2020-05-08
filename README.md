@@ -32,6 +32,7 @@ The old and obsolete: the one stuck in it&#39;s thinking pattern but very reliab
 The silent but hidden gem: the one that is not able to speak up in groups or speaks up less. But when asked to say something he/she can really contribute with a well overthought insight.
 
 The boss: The one with the biggest mouth and a lot of idea&#39;s. But overshadows other team members and can be stuck in a critical mindset.
+<iframe src="https://giphy.com/embed/YPJU2ZNbhySdfklRDN" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/latenightseth-seth-meyers-lnsm-late-night-with-YPJU2ZNbhySdfklRDN"></a></p>
 
 My goal was to unite these people and make sure that they would all be able to connect and add to the session. Adapting to the personalities of everyone in the room to ensure maximization of the thinking potential.
 
